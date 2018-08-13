@@ -1,7 +1,7 @@
 # php-docker-bin
 Useful shell commands for developing through docker
 
-Simply clone and copy into /usr/local/bin
+Simply clone and copy/link into /usr/local/bin
 
 Included:
 * php - 7.2-cli (from official image)
