@@ -1,4 +1,4 @@
-# php-docker-bin
+# docker-bin
 Useful shell commands for developing through docker
 
 Simply clone and copy/link into /usr/local/bin
