@@ -1,5 +1,5 @@
 # docker-bin
-Useful shell commands for developing through docker
+Useful shell commands for developing in PHP through docker
 
 Simply clone and copy/link into /usr/local/bin (sudo ./install.sh under linux)
 
@@ -9,4 +9,5 @@ Included:
 * composer - always latest version (from official image)
 * php-cs-fixer - always latest version (through cytopia/php-cs-fixer)
 * phpstan - always latest version (from official image)
+* psalm - always latest version (from hyperized/psalm)
 * npm - always latest version (from node:alpine)
