@@ -1,9 +1,9 @@
 #!/bin/sh
-ln -sr php /usr/local/bin
-ln -sr composer /usr/local/bin
-ln -sr phpunit /usr/local/bin
-ln -sr npm /usr/local/bin
-ln -sr php-cs-fixer /usr/local/bin
-ln -sr phpstan /usr/local/bin
-ln -sr psalm /usr/local/bin
-ln -sr phpcs /usr/local/bin 
+ln -sirv php /usr/local/bin
+ln -sirv composer /usr/local/bin
+ln -sirv phpunit /usr/local/bin
+ln -sirv npm /usr/local/bin
+ln -sirv php-cs-fixer /usr/local/bin
+ln -sirv phpstan /usr/local/bin
+ln -sirv psalm /usr/local/bin
+ln -sirv phpcs /usr/local/bin 
